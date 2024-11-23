@@ -1,0 +1,6 @@
+.practical-experience > form {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: flex-end;
+}
